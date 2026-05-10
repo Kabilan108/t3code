@@ -25,3 +25,5 @@ squashfs-root/
 .vercel
 dist-electron/
 .electron-runtime/
+.direnv
+.envrc
